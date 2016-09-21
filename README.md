@@ -1,4 +1,5 @@
 # cg-stats
+[![Code Climate](https://codeclimate.com/github/18F/cg-stats-scripts/badges/gpa.svg)](https://codeclimate.com/github/18F/cg-stats-scripts)
 
 cg-stats is a script that will collect and print stats about a specified cloud foundry environment.
 
